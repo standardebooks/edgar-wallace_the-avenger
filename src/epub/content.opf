@@ -28,6 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Avenger</dc:title>
 		<meta property="file-as" refines="#title">Avenger, The</meta>
+		<meta property="dcterms:alternative" refines="#title">The Hairy Arm</meta>
 		<dc:subject id="subject-1">Detective and mystery stories, English</dc:subject>
 		<dc:subject id="subject-2">Missing persons--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -42,27 +43,29 @@
 		<meta property="term" refines="#subject-4">sh2008107252</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A detective from the Foreign Office is asked to investigate the death of a man whose severed head has been discovered.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;When a severed head is discovered, Mike Brixan of the Foreign Office is asked to return from Europe and assist in apprehending the murderer, known as “The Headhunter.” The trail leads to Chichester and the set of a motion picture crew located on an English manor.&lt;/p&gt;
+			&lt;p&gt;Brixan discovers that the script writer has a connection with both The Headhunter and an unscrupulous neighbor who has a past history of pursuing adventure bordering on crime and a love of exotic pets and young ladies.&lt;/p&gt;
+			&lt;p&gt;Following the discovery of another severed head, and an attempted kidnapping of a cast member, Mike moves quickly to avert further death and discovers that the Headhunter has set one more trap.&lt;/p&gt;
+			&lt;p&gt;Published in 1926, &lt;i&gt;The Avenger&lt;/i&gt; was adapted for film in 1960.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/69788</dc:source>
-		<dc:source>https://archive.org/details/in.ernet.dli.2015.67614/mode/2up</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Avenger/-dwTAAAAQAAJ</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Avenger</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-avenger</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
 		<meta property="file-as" refines="#author">Wallace, Edgar</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Wallace</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80034938</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Edward Mitchell Bannister</dc:contributor>
+		<meta property="file-as" refines="#artist">Bannister, Edward Mitchell</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edward_Mitchell_Bannister</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr93019948</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
