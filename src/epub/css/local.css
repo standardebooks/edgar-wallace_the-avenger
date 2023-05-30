@@ -2,7 +2,10 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 footer{
-	font-variant: small-caps;
 	margin-top: 1em;
 	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
 }
