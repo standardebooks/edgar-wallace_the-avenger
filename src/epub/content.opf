@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/69788</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Avenger/-dwTAAAAQAAJ</dc:source>
 		<meta property="se:word-count">64926</meta>
-		<meta property="se:reading-ease.flesch">74.49</meta>
+		<meta property="se:reading-ease.flesch">74.69</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Avenger</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-avenger</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
