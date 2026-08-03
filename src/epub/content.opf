@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-wallace/the-avenger</dc:identifier>
 		<dc:date>2023-05-30T17:24:52Z</dc:date>
@@ -45,12 +45,12 @@
 		<meta property="term" refines="#subject-4">sh2008107252</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">When a severed head is discovered, a detective from the Foreign Office is asked to investigate.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>When a severed head is discovered, a detective from the Foreign Office is asked to investigate.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;When a severed head is discovered, Mike Brixan of the Foreign Office is asked to return from Europe and assist in apprehending the murderer, known as “The Headhunter.” The trail leads to Chichester and the set of a motion picture crew located on an English manor.&lt;/p&gt;
 			&lt;p&gt;Brixan discovers that the scriptwriter has a connection with both The Headhunter and an unscrupulous neighbor with a history of misadventure, a love of exotic pets, and an enthusiasm for young ladies.&lt;/p&gt;
 			&lt;p&gt;Published in 1926, &lt;i&gt;The Avenger&lt;/i&gt; was adapted for film in 1960.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/69788</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Avenger/-dwTAAAAQAAJ</dc:source>
