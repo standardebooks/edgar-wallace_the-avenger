@@ -45,7 +45,7 @@
 		<meta property="term" refines="#subject-4">sh2008107252</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>When a severed head is discovered, a detective from the Foreign Office is asked to investigate.</dc:abstract>
+		<meta property="schema:abstract">When a severed head is discovered, a detective from the Foreign Office is asked to investigate.</meta>
 		<dc:description>
 			&lt;p&gt;When a severed head is discovered, Mike Brixan of the Foreign Office is asked to return from Europe and assist in apprehending the murderer, known as “The Headhunter.” The trail leads to Chichester and the set of a motion picture crew located on an English manor.&lt;/p&gt;
 			&lt;p&gt;Brixan discovers that the scriptwriter has a connection with both The Headhunter and an unscrupulous neighbor with a history of misadventure, a love of exotic pets, and an enthusiasm for young ladies.&lt;/p&gt;
